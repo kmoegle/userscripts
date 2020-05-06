@@ -5,8 +5,8 @@
 // @description This script will change the styles of Jira Boards to be (what I think is) more useful.
 // @include     /^https?:\/\/jira.[^\/]+\/secure\/RapidBoard.jspa.*/
 // @include     /^https?:\/\/[^\/]+?\.atlassian\.net\/secure\/RapidBoard.jspa.*/
-// @downloadURL https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.js
-// @updateURL   https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.js
+// @downloadURL https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.user.js
+// @updateURL   https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.user.js
 // @version     1.0.0
 // @grant       none
 // ==/UserScript==
