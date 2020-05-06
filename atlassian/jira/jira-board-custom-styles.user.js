@@ -7,7 +7,7 @@
 // @include     /^https?:\/\/[^\/]+?\.atlassian\.net\/secure\/RapidBoard.jspa.*/
 // @downloadURL https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.user.js
 // @updateURL   https://raw.githubusercontent.com/kmoegle/userscripts/master/atlassian/jira/jira-board-custom-styles.user.js
-// @version     1.0.0
+// @version     1.0.1
 // @grant       none
 // ==/UserScript==
 
