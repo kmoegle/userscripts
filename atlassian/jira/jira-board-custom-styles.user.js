@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Jira Board Custom Styles
-// @namespace   info.nehrke.jira
+// @namespace   de.kmoegle.atlassian.jira
 // @author      Kristoffer Moegle
 // @description This script will change the styles of Jira Boards to be (what I think is) more useful.
 // @include     /^https?:\/\/jira.[^\/]+\/secure\/RapidBoard.jspa.*/
